@@ -8,7 +8,7 @@
 
 ### ✨ Sobre mim
 
-- 🔍 Estagiária no Itaú, atuando com dados e tecnologia
+- 🔍 Estagiária no Itaú, atuando com dados e setor de Compras
 - 🎓 Estudante de Sistemas de Informação
 - 💡 Tenho interesse em dados, automação, desenvolvimento e no impacto da tecnologia nos negócios
 - 📁 Aqui você encontrará projetos acadêmicos, estudos técnicos e aprendizados da faculdade
